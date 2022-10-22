@@ -2,6 +2,8 @@ package global.graphql.util
 
 import future.keywords.in
 
+# comment1
+
 default graphql_document = {}
 
 schema := s {
