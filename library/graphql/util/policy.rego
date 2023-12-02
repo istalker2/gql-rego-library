@@ -2,7 +2,7 @@ package global.graphql.util
 
 import future.keywords.in
 
-# !!!!!comment2
+# !!!!!comment3!
 
 default graphql_document = {}
 
